@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <setParameter name="IIS Web Application Name" value="asporacle" />
-  <setParameter name="OracleDBConnectionString-Web.config Connection String" value="Provider=OraOLEDB.Oracle;Data Source=(DESCRIPTION=(CID=GTU_APP)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=linkstar.cgxmjxhypelr.us-east-1.rds.amazonaws.com)(PORT=1521)))(CONNECT_DATA=(SID=orcl)(SERVER=DEDICATED)));User Id=linkstar;Password=linkstar;" />
-</parameters>
